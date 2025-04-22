@@ -1,0 +1,11 @@
+# Arquivos gerados por ferramentas
+*.yy.c      # gerado pelo Flex
+*.tab.c     # gerado pelo Bison
+*.tab.h     # header gerado pelo Bison
+
+# Arquivos binários
+*.out
+*.exe
+
+# Objetos
+*.o

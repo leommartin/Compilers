@@ -6,7 +6,7 @@ var
 
 function soma(a, b: integer): integer;
 begin
-  soma := a + b
+  soma := a + b; // verificar depois sem o ;
 end;
 
 begin
